@@ -1,0 +1,29 @@
+.location {
+    background: linear-gradient(to top, hsla(205, 100%, 28%, 0.678),hsla(205, 100%, 28%, 0.171));
+  }
+  
+  .map-location {
+    padding-bottom: 50px;
+    border: 0;
+    display: flex;
+    height: auto;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+  }
+  
+  .text-location {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 60px;
+    font-family: 'Myriad Pro', sans-serif;
+    padding-top: 50px;
+  }
+
+@media (max-width: 1000px) {
+  .map-location {
+    height: auto;
+    width: 100%;
+  }
+}

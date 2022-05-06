@@ -1,0 +1,34 @@
+{
+    "faqs": [
+        {
+            "id": "bde4cb1e-547d-4a61-b526-f2314518c777",
+            "title": "¿Cómo solicito un turno?",
+            "body": "Podes solicitarlo haciendo click en el icono de WhatsApp en la parte inferior de la pantalla, o bien comunicarte al +54 2972 53-1307"
+        },
+        {
+            "id": "86a8f062-6a63-456b-91b9-362c45d24b3e",
+            "title": "¿En qué horarios puedo solicitarlo?",
+            "body": "Nuestros horarios de atención son de Lunes a Viernes de 08hs a 21hs y sábados de 08hs a 12hs."
+        },
+        {
+            "id": "88977af6-5f74-4cbe-9fc6-94c99e9eba21",
+            "title": "¿Dónde estan ubicados?",
+            "body": "Nos encontramos en Rivadavia 1244, cabaña 3. San Martín de los Andes, Neuquén, Argentina"
+        },
+        {
+            "id": "88977af6-5f74-4cbe-9fc6-94c99e9eba22",
+            "title": "¿Con qué terapias trabajan?",
+            "body": "Trabajamos con diversas terapias que podes encontrar en la seccion 'terapias'."
+        },
+        {
+            "id": "86a8f062-6a63-456b-91b9-362c45d24b3f",
+            "title": "¿Cómo encuentro al profesional que estoy buscando?",
+            "body": "Para comunicarte con el profesional que estas buscando podes comunicarte con el WhatsApp de la seccion 'Turnos' y seguir los pasos."
+        },
+        {
+            "id": "bde4cb1e-547d-4a61-b526-f2314518c598",
+            "title": "¿Tienen redes sociales?",
+            "body": "¡Si! Podes encontrarnos en Facebook y en Instagram."
+        }
+    ]
+}

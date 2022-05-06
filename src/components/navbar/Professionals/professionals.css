@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .section1 {  
+  background: linear-gradient(to bottom, hsl(206, 32%, 79%),hsla(177, 100%, 31%, 0.603));
+}
+
+.section2 {   
+  background: linear-gradient(to bottom, hsla(177, 100%, 31%, 0.61),hsl(177, 100%, 31%));
+} */
+
+.title-bio {
+  border-right: 1px solid #000;
+  height:auto
+}
+
+.title-therapy {
+  align-items: center;
+  margin-top: 25%;
+}
+
+.title-therapy {
+  text-align: center;
+  box-sizing: content-box;
+  /* border: solid #5B6DCD 1px; */
+}

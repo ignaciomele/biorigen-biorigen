@@ -1,0 +1,59 @@
+{
+    "professionals": [
+        {
+            "title": "Biodescodificación",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Kinesiología Integral",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Masoterpia Integral",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Medicina China",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Medicina Orthomolecular",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Nutrición Deportiva",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Nutrición Holística",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Nutrición Orthomolecular",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Osteopatía",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Psicología Gestalt",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "title": "Psicología y Arteterapia",
+            "img": "../../static/logobiorigen.jpg",
+            "body": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        }
+    ]
+}

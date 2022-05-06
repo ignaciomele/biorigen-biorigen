@@ -1,0 +1,142 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 40px 0;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* MAIN */
+
+h1 {
+  font-family: 'Myriad Pro', sans-serif;
+  padding: 0 18px;
+  padding-top: 5px;
+  color: hsla(177, 100%, 31%, 0.61);
+  -webkit-text-stroke: 0.3px #00538F;
+  text-shadow: -1px -1px #00A099, 1.5px 1.5px #00538F;
+  text-align: center;
+}
+
+.section1 {  
+  background: linear-gradient(to bottom, hsl(205, 100%, 28%),hsla(177, 100%, 31%, 0.603));
+}
+
+.section2 {   
+  background: linear-gradient(to bottom, hsla(177, 100%, 31%, 0.61),hsl(177, 100%, 31%));
+}
+
+.card1 {   
+  background: hsla(205, 100%, 28%, 0.664);
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: -2.5px -2.5px hsla(205, 100%, 28%, 0.664), 1.5px 1.5px hsla(0, 0%, 0%, 0.37);
+}
+
+.card2 {
+  background: linear-gradient(to bottom, hsla(205, 100%, 28%, 0.678),hsla(205, 100%, 28%, 0.411));
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: -1px -1px hsla(205, 100%, 28%, 0.678), 1.5px 1.5px hsla(0, 0%, 0%, 0.37);
+}
+
+.card3 {
+  background: linear-gradient(to bottom, hsla(205, 100%, 28%, 0.411),hsla(177, 100%, 31%, 0.219));
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: -1px -1px hsla(205, 100%, 28%, 0.411), 1.5px 1.5px hsla(0, 0%, 0%, 0.37);
+}
+.card4 {
+  background: linear-gradient(to bottom, hsla(205, 100%, 28%, 0.185),hsla(177, 100%, 31%, 0.11));
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: -3px -3px hsla(205, 100%, 28%, 0.185), 1.5px 1.5px hsla(0, 0%, 0%, 0.37);
+}
+.card5 {
+  background: linear-gradient(to bottom, hsla(177, 100%, 31%, 0.11), hsla(177, 100%, 31%, 0.541));;
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: -2px -2px hsla(177, 100%, 31%, 0.11), 1.5px 1.5px hsla(0, 0%, 0%, 0.37);
+}
+.card6 {
+  background: hsl(177, 100%, 31%);
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: -3px -3px hsl(177, 100%, 31%), 1.5px 1.5px hsla(0, 0%, 0%, 0.37);
+}
+
+
+/* CARDS */
+
+.card-title {
+  text-decoration: underline;
+  font-size: 28px;
+  font-family: 'Myriad Pro', sans-serif;
+}
+
+.card-text {
+  font-size: 17px;
+  font-family: 'Myriad Pro', sans-serif;
+}
+
+.btn-primary1 {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: black;
+  color: #fff;
+}
+.btn-primary2 {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: black;
+  color: #fff;
+}
+.btn-primary3 {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: black;
+  color: #fff;
+}
+.btn-primary4 {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: black;
+  color: #fff;
+}
+.btn-primary5 {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: black;
+  color: #fff;
+}
+.btn-primary6 {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: black;
+  color: #fff;
+}
+
+
+.btn-primary1:hover {
+  background-color: hsla(205, 100%, 28%, 0.822);
+  color: #fff;
+}
+.btn-primary2:hover {
+  background-color: hsla(205, 100%, 28%, 0.562);
+  color: #fff;
+}
+.btn-primary3:hover {
+  background-color: hsla(177, 100%, 31%, 0.589);
+  color: #fff;
+}
+.btn-primary4:hover {
+  background-color: hsla(177, 100%, 31%, 0.473);
+  color: #fff;
+}
+.btn-primary5:hover {
+  background-color: hsla(177, 100%, 31%, 0.836);
+  color: #fff;
+}
+.btn-primary6:hover {
+  background-color: hsl(177, 97%, 28%);
+  color: #fff;
+}

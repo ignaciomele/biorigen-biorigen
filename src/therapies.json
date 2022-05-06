@@ -1,0 +1,52 @@
+{
+    "therapies": [
+        {
+            "title": "Biodescodificación",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores?"
+        },
+        {
+            "title": "Kinesiología Integral",
+            "body": "Es una terapia activa, donde el consultante se hacer partícipe de su recuperación o prevención, el Kinesiologo es una herramienta para que juntos se logre el objetivo planteado. Siempre teniendo una visión Integral del cuerpo y la persona."
+        },
+        {
+            "title": "Masoterpia Integral",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores?"
+        },
+        {
+            "title": "Medicina China",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores?"
+        },
+        {
+            "title": "Medicina Orthomolecular",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores?"
+        },
+        {
+            "title": "Nutrición Deportiva",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores?"
+        },
+        {
+            "title": "Nutrición Holística",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores?"
+        },
+        {
+            "title": "Nutrición Orthomolecular",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores?"
+        },
+        {
+            "title": "Osteopatía",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores?"
+        },
+        {
+            "title": "Psicología Gestalt",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores?"
+        },
+        {
+            "title": "Psicología y Arteterapia",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores? ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque."
+        },
+        {
+            "title": "Psicología, Terapia Floral, Constelaciones, transpersonal",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quidem natus error praesentium a cumque, fugit odit corrupti necessitatibus velit labore optio rem temporibus reprehenderit accusantium consequatur quis quaerat maiores? "
+        }
+    ]
+}

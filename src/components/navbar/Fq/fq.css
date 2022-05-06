@@ -1,0 +1,31 @@
+.paragraph-faqs {
+    margin-bottom: 0;
+    padding-left: 40px;
+}
+.title-faqs {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: 'Myriad Pro', sans-serif;
+  box-shadow: 50px;
+  }
+  
+.body-faqs {
+  padding-top: 25px;
+  font-size: 20px;
+  text-align: left;
+  font-family: 'Myriad Pro', sans-serif;
+  margin-bottom: auto;
+  padding-bottom: 0;
+  padding-left: 50px;
+}
+
+.title-mockup {
+  font-weight: 700;
+}
+
+.background-faqs {
+  background: linear-gradient(to top, hsla(205, 100%, 28%, 0.603),hsla(177, 100%, 31%, 0.521));
+}
